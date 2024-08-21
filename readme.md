@@ -95,6 +95,21 @@ Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or new features.
 License
 
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+markdown
+
+
+### Steps for Activation on a New Machine
+
+1. **Clone the repository** to the new machine using the GitHub URL.
+2. **Navigate** to the project directory.
+3. **Create a virtual environment** to isolate dependencies.
+4. **Activate the virtual environment** and install dependencies using `pip`.
+5. **Add your PDF files** to the `assets/books` directory.
+6. **Run the scripts** `generate_images.py` and `generate_html.py` to generate the image files and the HTML page.
+7. **Open the generated HTML file** in your browser to view the list of books with images and download links.
+
 
 By following these steps, you'll be able to set up and run the project on any machine quickly.
 
